@@ -18,7 +18,7 @@ grunt concat
 grunt jshint
 ```
 ```shell
-grunt phphint
+grunt phplint
 ```
 
 ## Custom Task (Runs both jshint and concat)
