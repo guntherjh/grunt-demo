@@ -7,4 +7,4 @@ A super simple grunt demo!
 2. Clone the repo.
 3. cd into grunt-demo.
 4. Run *npm install*.
-5. Play around!
+5. Play around! Run *grunt --help* if you need a hand, or check out the Grunt [documentation](http://gruntjs.com/getting-started).
